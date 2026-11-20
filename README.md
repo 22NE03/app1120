@@ -34,8 +34,8 @@
 
 ## 3. 실행 화면 캡처
 
-| PC 화면 | 휴대폰 화면 |
-|---|---|
+| PC 화면|
+|------|
 | ![PC 1](images/on1.png) | | ![PC 2](images/on2.png) |
 | ![PC 3](images/on3.png) | | ![PC 4](images/on4.png) |
 | ![PC 5](images/on5.png) | | ![PC 6](images/on6.png) | 
