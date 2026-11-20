@@ -36,12 +36,10 @@
 
 | PC 화면 | 휴대폰 화면 |
 |---|---|
-| ![PC 1](images/on1.png) | ![휴대폰 1](images/mo1.jpg) |
-| ![PC 2](images/on2.png) | ![휴대폰 2](images/mo2.jpg) |
-| ![PC 3](images/on3.png) | ![휴대폰 3](images/mo3.jpg) |
-| ![PC 4](images/on4.png) | ![휴대폰 4](images/mo4.jpg) |
-| ![PC 5](images/on5.png) | ![휴대폰 5](images/mo5.jpg) |
-| ![PC 6](images/on6.png) | ![휴대폰 6](images/mo6.jpg) |
+| ![PC 1](images/on1.png) | | ![PC 2](images/on2.png) |
+| ![PC 3](images/on3.png) | | ![PC 4](images/on4.png) |
+| ![PC 5](images/on5.png) | | ![PC 6](images/on6.png) | 
+
 
 ## 4. 어려웠던 점과 해결 방법
 
