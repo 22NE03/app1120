@@ -32,9 +32,13 @@
 
 ## 3. 실행 화면 캡처
 
+## 3. 실행 화면 캡처
+
 | PC 화면 | 휴대폰 화면 |
 |---|---|
-| ![PC 실행 화면](images/screenshot_pc.png) | ![휴대폰 실행 화면](images/screenshot_mobile.png) |
+| ![PC 1](images/pc1.png) | ![휴대폰 1](images/mobile1.png) |
+| ![PC 2](images/pc2.png) | ![휴대폰 2](images/mobile2.png) |
+
 
 (캡처 이미지를 `images/` 폴더에 넣고 파일 이름을 맞춰 주세요.)
 
