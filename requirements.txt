@@ -1,0 +1,13 @@
+# CPU 전용 PyTorch를 받기 위한 주소 (GPU용은 용량이 너무 커서 배포 서버에서 실패할 수 있음)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics>=8.3
+onnxruntime
+streamlit-image-coordinates
+streamlit>=1.50
+opencv-python-headless
+pillow>=10.1
+numpy
+pandas
+altair
